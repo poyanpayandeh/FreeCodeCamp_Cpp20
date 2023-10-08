@@ -49,5 +49,4 @@ int main()
 	std::cout << "\n\n";
 
 	// unsinged int allows positive numbers while signed int allows both positive and negative numbers
-
 }
